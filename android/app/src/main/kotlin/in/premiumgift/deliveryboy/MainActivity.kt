@@ -1,4 +1,4 @@
-package com.eshopsingle.deliveryboy
+package in.premiumgift.deliveryboy
 
 import io.flutter.embedding.android.FlutterActivity
 

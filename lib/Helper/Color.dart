@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 extension colors on ColorScheme {
   static MaterialColor primary_app = const MaterialColor(
-    0xff6133BD,
+    0xffff0000,
     <int, Color>{
       50: primary1,
       100: primary1,
@@ -18,12 +18,12 @@ extension colors on ColorScheme {
   );
   static const String lightFontColor = "#FFFFFF";
   static const String darkFontColor = "#212121";
-  static const Color primary1 = Color(0xff6133BD);
+  static const Color primary1 = Color(0xffff0000);
   String get webFontColor =>
       brightness == Brightness.dark ? lightFontColor : darkFontColor;
   Color get primarytheme => brightness == Brightness.dark
-      ? const Color(0xff7E57C2)
-      : const Color(0xff6133BD);
+      ? const Color(0xffff4c4c)
+      : const Color(0xffff0000);
   Color get secondary => brightness == Brightness.dark
       ? const Color(0xff4AB0FF)
       : const Color(0xff2C91FE);

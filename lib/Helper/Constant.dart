@@ -1,4 +1,4 @@
-const String appName = 'Delivery Boy eShop';
+const String appName = 'Premiumgift Delivery App';
 const String baseUrl = 'https://eshopweb.store/delivery_boy/app/v1/api/';
 // const String baseUrl = 'https://eshop.wrteam.co.in/delivery_boy/app/v1/api/';
 const bool isDemoApp = true;

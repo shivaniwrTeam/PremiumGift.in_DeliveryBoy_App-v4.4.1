@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "213717281968",
+    "project_id": "premium-gift-in-app",
+    "storage_bucket": "premium-gift-in-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213717281968:android:1e8548595cc4f3a6711f75",
+        "android_client_info": {
+          "package_name": "in.premiumgift.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213717281968-mafb62khjvnadnp9qnv34dgpukc3f5gh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.premiumgift.android",
+            "certificate_hash": "4cd56deeeb4613231f689af5e46f5e76e2ec2da2"
+          }
+        },
+        {
+          "client_id": "213717281968-643tl8448qtalodag4j40bsbom3t1ecl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuJoTgPJYm-eU7doXHk8Hmi3dYLz08urU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213717281968-643tl8448qtalodag4j40bsbom3t1ecl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "213717281968-c85vvs2sg6lh0mb1p9gjdeib4gtsh82g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.premiumgift.deliveryboy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213717281968:android:35b7292d0e0b6bd3711f75",
+        "android_client_info": {
+          "package_name": "in.premiumgift.deliveryboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213717281968-c9b2a1jq1ppkqdhhcnids55m3u5dll2r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.premiumgift.deliveryboy",
+            "certificate_hash": "4cd56deeeb4613231f689af5e46f5e76e2ec2da2"
+          }
+        },
+        {
+          "client_id": "213717281968-643tl8448qtalodag4j40bsbom3t1ecl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuJoTgPJYm-eU7doXHk8Hmi3dYLz08urU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213717281968-643tl8448qtalodag4j40bsbom3t1ecl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "213717281968-c85vvs2sg6lh0mb1p9gjdeib4gtsh82g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.premiumgift.deliveryboy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
